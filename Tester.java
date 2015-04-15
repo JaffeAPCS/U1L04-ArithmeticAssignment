@@ -1,6 +1,6 @@
 
 /**
- * Hello World: The first program everyb
+ * Hello World: The first program everybody writes!
  * 
  * @author (your name) 
  * @version (a version number or a date)
