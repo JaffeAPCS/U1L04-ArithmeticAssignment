@@ -1,6 +1,6 @@
 
 /**
- * Hello World: The first program everybody writes!
+ * Name that Celebrity
  * 
  * @author (your name) 
  * @version (a version number or a date)
