@@ -1,6 +1,6 @@
 
 /**
- * Name that Celebrity
+ * Cheating on your arithmetic project Lesson 04
  * 
  * @author (your name) 
  * @version (a version number or a date)
